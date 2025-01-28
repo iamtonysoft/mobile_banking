@@ -9,10 +9,12 @@ This app was build using android studio.
 To run this code you need to install android studio and flutter sdk on your local machine.
 
 Pre-requisites:
+
 Android Studio: https://redirector.gvt1.com/edgedl/android/studio/install/2024.2.2.13/android-studio-2024.2.2.13-windows.exe
 Flutter: https://storage.googleapis.com/flutter_infra_release/releases/stable/windows/flutter_windows_3.27.3-stable.zip
 
 For installation instructions please refer to their documentation:
+
 https://docs.flutter.dev/get-started/install
 https://developer.android.com
 
