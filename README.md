@@ -24,7 +24,7 @@ After installing the pre-requisites
 
 These are the flutter commands needed to run in the console:
 - flutter clean
-- flutter build
+- flutter pub get
 - flutter run
 
 If you want to run this code on browser just choose the browser on which you prefer.
